@@ -1,5 +1,6 @@
 ### Hi there im erno 👋
-tools and languages i have used /n
+## tools and languages i have used 
+
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,php,cs,unity,css,react&perline=8)](https://skillicons.dev)
 
 
