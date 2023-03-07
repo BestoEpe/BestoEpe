@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,php,css,react&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,php,cs,unity,css,react&perline=8)](https://skillicons.dev)
 
 
 
