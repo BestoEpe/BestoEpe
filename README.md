@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,php,cs,unity,css,react&perline=8)](https://skillicons.dev)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestoEpe&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestoEpe&hide=contribs,prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BestoEpe/BestoEpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
