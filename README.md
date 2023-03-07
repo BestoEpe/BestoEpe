@@ -5,7 +5,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestoEpe&show_icons=true&hide=contribs,prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BestoEpe&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BestoEpe/BestoEpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
