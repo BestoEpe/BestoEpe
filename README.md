@@ -1,7 +1,7 @@
 # Hi there im erno 👋
 #### languages i have used 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,php,cs,css,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,php,cs,css,cs,react&perline=8)](https://skillicons.dev)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestoEpe&show_icons=true&hide=contribs,prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
